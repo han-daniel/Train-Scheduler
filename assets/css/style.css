@@ -1,0 +1,16 @@
+.jumbotron {
+    color: white;
+    background-position-y: 10%;
+    color: white;
+    background-color: navy;
+    height: 110px;
+    padding: 10px;
+    font-family: 'Kumar One Outline', cursive;
+}
+
+.btn-primary {
+    background-color: navy;
+    border-color: white;
+    font-weight: bold;
+}
+
