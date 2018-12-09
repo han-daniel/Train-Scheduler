@@ -1,12 +1,11 @@
 $(document).ready(function () {
 
     var config = {
-        apiKey: "AIzaSyDtR_Y1KmpfXmXf2FtSi_gD95yp5nomOTM",
-        authDomain: "train-app-hw.firebaseapp.com",
-        databaseURL: "https://train-app-hw.firebaseio.com",
-        projectId: "train-app-hw",
-        storageBucket: "train-app-hw.appspot.com",
-        messagingSenderId: "27551719601"
+        apiKey: "AIzaSyDlXUA2xhh3ayMc3EkNs3hVeYMN4jBxXDM",
+        authDomain: "allaboard-394eb.firebaseapp.com",
+        databaseURL: "https://allaboard-394eb.firebaseio.com",
+        storageBucket: "allaboard-394eb.appspot.com",
+        messagingSenderId: "488452612936"
       };
     firebase.initializeApp(config);
   
